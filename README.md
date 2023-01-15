@@ -13,8 +13,8 @@
 <tbody>
 	<tr>
     <td width="330" align="center">
-      <a href="https://github.com/Fedorov-Nikita/Classification-Flags">
-        <img src="https://github.com/Fedorov-Nikita/Portfolio/blob/main/classification-flags.png" alt="classification-flags" width="300" height="300">
+      <a href="https://github.com/Fedorov-Nikita/Classification-Simpsons">
+        <img src="https://github.com/Fedorov-Nikita/Portfolio/blob/main/projects-previews/classification-simpsons.png" alt="classification-simpsons" width="300" height="300">
       </a>
     </td>
 		<td width="600" align="center">
@@ -30,7 +30,7 @@
 			<h2>Image Classification [CV]</h2>  
       <p>Creating a multi-class classification computer vision model based on CNN. Based on a dataset containing footage from «The Simpsons» cartoon, training the model to predict the residents of Springfield in different years. And also test the model on test data in the Kaggle competition.</p>
       <p> :hammer_and_wrench: Realised: image preparation, image augmentation, fine-tuning cv model.</p>
-      <a href="">
+      <a href="https://github.com/Fedorov-Nikita/Classification-Simpsons">
         <img src="https://img.shields.io/badge/open%20in%20github-525252?style=for-the-badge&logo=github" alt="Open in GitHub"/>
       </a>
 <!--       <a href="">
@@ -44,7 +44,7 @@
 	<tr>
     <td width="330" align="center">
       <a href="https://github.com/Fedorov-Nikita/Classification-Flags">
-        <img src="https://github.com/Fedorov-Nikita/Portfolio/blob/main/classification-flags.png" alt="classification-flags" width="300" height="300">
+        <img src="https://github.com/Fedorov-Nikita/Portfolio/blob/main/projects-previews/classification-flags.png" alt="classification-flags" width="300" height="300">
       </a>
     </td>
 		<td width="600" align="center">
@@ -70,8 +70,8 @@
 	</tr>
 	<tr>
     <td width="330" align="center">
-      <a href="https://github.com/Fedorov-Nikita/Classification-Flags">
-        <img src="https://github.com/Fedorov-Nikita/Portfolio/blob/main/classification-flags.png" alt="classification-flags" width="300" height="300">
+      <a href="https://github.com/Fedorov-Nikita/Demo-Detector">
+        <img src="https://github.com/Fedorov-Nikita/Portfolio/blob/main/projects-previews/demo-detection.png" alt="demo-detection" width="300" height="300">
       </a>
     </td>
 		<td width="600" align="center">
@@ -87,8 +87,8 @@
 			<h2>Object Detection [CV]</h2>  
       <p>Deploy computer vision model trained on COCO dataset using Streamlit.</p>
       <p> :hammer_and_wrench: Realised: image preparation, image postprocessing, deploy web app.</p>
-      <a href="">
-        <img src="https://img.shields.io/badge/open%20in%20github-525252?style=for-the-badge&logo=github" alt="Resume Badge"/>
+      <a href="https://github.com/Fedorov-Nikita/Demo-Detector">
+        <img src="https://img.shields.io/badge/open%20in%20github-525252?style=for-the-badge&logo=github" alt="Open in GitHub"/>
       </a>
       <a href="">
         <img src="https://img.shields.io/badge/try%20demo-525252?style=for-the-badge&logo=Streamlit" alt="Try Demo"/>
