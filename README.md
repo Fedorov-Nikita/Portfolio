@@ -63,7 +63,7 @@
       <a href="https://github.com/Fedorov-Nikita/Classification-Flags">
         <img src="https://img.shields.io/badge/open%20in%20github-525252?style=for-the-badge&logo=github&logoColor=white" alt="Open in GitHub"/>
       </a>
-      <a href="">
+      <a href="https://drive.google.com/file/d/1i0mPGhynKCTRuMv4AbZUcDeQK3b8ZJSE/view">
         <img src="https://img.shields.io/badge/open%20in%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Open in Colab"/>
       </a>
 		</td>
