@@ -90,7 +90,7 @@
       <a href="https://github.com/Fedorov-Nikita/Demo-Detector">
         <img src="https://img.shields.io/badge/open%20in%20github-525252?style=for-the-badge&logo=github" alt="Open in GitHub"/>
       </a>
-      <a href="">
+      <a href="https://fedorov-photo-detector-fasterrcnn.streamlit.app/">
         <img src="https://img.shields.io/badge/try%20demo-525252?style=for-the-badge&logo=Streamlit" alt="Try Demo"/>
       </a>
 		</td>
