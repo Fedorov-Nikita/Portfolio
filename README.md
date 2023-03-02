@@ -13,6 +13,36 @@
 <tbody>
 	<tr>
     <td width="330" align="center">
+      <a href="https://github.com/Fedorov-Nikita/Board-Games">
+        <img src="https://github.com/Fedorov-Nikita/Portfolio/blob/main/projects-previews/boardgame-recsys.png" alt="BoardGame-RecSys" width="300" height="300">
+      </a>
+    </td>
+		<td width="600" align="center">
+	<a href="https://www.python.org/">
+	    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+	</a>
+	<a href="https://scikit-learn.org/stable/">
+	    <img src="https://img.shields.io/badge/Scikit--learn-ec9c4b?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit_learn"/>
+	</a>
+	<a href="https://surpriselib.com/">
+	    <img src="https://img.shields.io/badge/surprise-75B5AA?style=for-the-badge&logo=surprise&logoColor=white" alt="Surprise"/>
+	</a>
+			<h2>Recommendation System [RecSys]</h2>  
+      <p>Creating recommendation system, based on users ratings, theirs comments and main information about board games from boardgamegeek.com</p>
+      <p> :hammer_and_wrench: Realised: data scraping, collaborative filtering, item-based recommendation, hybrid recommendation system.<p> 
+      <a href="https://github.com/Fedorov-Nikita/Board-Games">
+        <img src="https://img.shields.io/badge/open%20in%20github-525252?style=for-the-badge&logo=github" alt="Open in GitHub"/>
+      </a>
+<!--       <a href="">
+        <img src="https://img.shields.io/badge/open%20in%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Open in Colab"/>
+      </a> -->
+<!--       <a href="">
+        <img src="https://img.shields.io/badge/try%20demo-525252?style=for-the-badge&logo=Streamlit" alt="Try Demo"/>
+      </a> -->
+		</td>
+	</tr>
+	<tr>
+    <td width="330" align="center">
       <a href="https://github.com/Fedorov-Nikita/Classification-Simpsons">
         <img src="https://github.com/Fedorov-Nikita/Portfolio/blob/main/projects-previews/classification-simpsons.png" alt="classification-simpsons" width="300" height="300">
       </a>
